@@ -4,7 +4,7 @@
     <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/OS-Endeavor_OS-%239607dd?style=flat-square"/></a>
 </p>
 
-## Basic information 👤
+## Basic information
 
 Full stack development
 
