@@ -22,7 +22,3 @@ Full stack development
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=lyj404&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 <img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyj404&locale=en&line_height=33&theme=&langs_count=9&layout=compact"/>
-
-## Recent Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyj404 &theme=vue)
