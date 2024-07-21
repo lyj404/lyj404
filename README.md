@@ -4,7 +4,7 @@
     <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/OS-Endeavor_OS-%239607dd?style=flat-square"/></a>
 </p>
 
-## Basic information 👨
+## Basic information 👤
 
 Full stack development
 
@@ -20,5 +20,9 @@ Full stack development
     <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" ></a>&emsp;
 </p>
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=lyj404&locale=en&line_height=33&show_icons=true&hide=contribs,commits,stars&theme=radical&rank_icon=default"/>
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyj404&locale=en&line_height=33&theme=radical&langs_count=7&layout=compact"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=lyj404&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
+<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyj404&locale=en&line_height=33&theme=&langs_count=9&layout=compact"/>
+
+## Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manateelazycat&theme=vue)
