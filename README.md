@@ -25,4 +25,4 @@ Full stack development
 
 ## Recent Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyj404&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyj404 &theme=vue)
