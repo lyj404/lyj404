@@ -1,6 +1,6 @@
 <p align="center"> 
     <a href="http://lyj.cloudns.ch/" target="_blank"><img  align=center src="https://img.shields.io/badge/Blog-博客-%231677ff?style=flat-square"/></a>
-    <a href="lyj404@qq.com" target="_blank"><img  align=center src="https://img.shields.io/badge/Email-邮箱-%2326d162?style=flat-square"/></a>
+    <a href="mailto:lyj404@qq.com" target="_blank"><img  align=center src="https://img.shields.io/badge/Email-邮箱-%2326d162?style=flat-square"/></a>
     <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/OS-Endeavour_OS-%239607dd?style=flat-square"/></a>
 </p>
 
